@@ -4,11 +4,11 @@ repo: up # The name of this repository
 
 sites:
   - name: Hub.cid.agilent.com
-    url: https://hub.cid.agilent.com  - name: Jenkins Stg-51
+    url: https://hub.cid.agilent.com
   - name: Hub for Stg-51
     url: https://hub.stg-51.aws.agilent.com
   - name: Jenkins Prd-51
-      url: https://jenkins.prd-51.aws.agilent.com/login
+    url: https://jenkins.prd-51.aws.agilent.com/login
   - name: Jenkins Stg-51
     url: https://jenkins.stg-51.aws.agilent.com/login
   - name: pvl.pub
