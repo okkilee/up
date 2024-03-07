@@ -7,10 +7,10 @@ sites:
     url: https://hub.cid.agilent.com
   - name: hub for stg-51
     url: https://hub.stg-51.aws.agilent.com
-  - name: Jenkins prd-51
+  - name: hub for tst-51
+    url: https://hub.tst-51.aws.agilent.com  - name: Jenkins prd-51
+  - name: Jenkins pipeline
     url: https://jenkins.prd-51.aws.agilent.com/login
-  - name: Jenkins stg-51
-    url: https://jenkins.stg-51.aws.agilent.com/login
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
