@@ -60,7 +60,7 @@
     "url": "https://jenkins.prd-51.aws.agilent.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/jenkins.prd-51.aws.agilent.com.ico",
     "slug": "jenkins-pipeline",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 160,
     "timeMonth": 165,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-30": 0
+    }
   }
 ]
