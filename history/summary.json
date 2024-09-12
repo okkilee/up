@@ -4,10 +4,10 @@
     "url": "https://hub.cid.agilent.com",
     "icon": "https://icons.duckduckgo.com/ip3/hub.cid.agilent.com.ico",
     "slug": "hub-cid-agilent-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 169,
@@ -16,6 +16,7 @@
     "timeMonth": 182,
     "timeYear": 169,
     "dailyMinutesDown": {
+      "2024-09-12": 1,
       "2024-03-07": 43
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://hub.stg-51.aws.agilent.com",
     "icon": "https://icons.duckduckgo.com/ip3/hub.stg-51.aws.agilent.com.ico",
     "slug": "hub-for-stg-51",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 183,
     "timeMonth": 179,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "hub for tst-51",
